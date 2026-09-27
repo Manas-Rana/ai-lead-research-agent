@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ai-lead-research-agent": "file:ai-lead-research-agent"
+  }
+}

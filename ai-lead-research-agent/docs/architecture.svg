@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="1200" height="650" fill="#080b14"/>
+<text x="600" y="48" fill="#ffffff" font-family="Arial" font-size="28" text-anchor="middle" font-weight="700">AI Lead Research &amp; Outreach Agent</text>
+<g font-family="Arial" text-anchor="middle">
+<rect x="70" y="110" width="250" height="120" rx="18" fill="#151a2a" stroke="#7769ff"/>
+<text x="195" y="155" fill="#fff" font-size="20" font-weight="700">React + Vite</text><text x="195" y="188" fill="#9da6ba" font-size="15">Input • Research • Review</text>
+<rect x="475" y="110" width="250" height="120" rx="18" fill="#151a2a" stroke="#7769ff"/>
+<text x="600" y="155" fill="#fff" font-size="20" font-weight="700">Node.js + Express</text><text x="600" y="188" fill="#9da6ba" font-size="15">REST API • Validation</text>
+<rect x="880" y="110" width="250" height="120" rx="18" fill="#151a2a" stroke="#7769ff"/>
+<text x="1005" y="155" fill="#fff" font-size="20" font-weight="700">SQLite</text><text x="1005" y="188" fill="#9da6ba" font-size="15">Research history</text>
+<rect x="325" y="360" width="250" height="140" rx="18" fill="#151a2a" stroke="#31bd88"/>
+<text x="450" y="405" fill="#fff" font-size="20" font-weight="700">Research Service</text><text x="450" y="438" fill="#9da6ba" font-size="15">Web Search</text><text x="450" y="464" fill="#9da6ba" font-size="15">Evidence extraction</text>
+<rect x="625" y="360" width="250" height="140" rx="18" fill="#151a2a" stroke="#31bd88"/>
+<text x="750" y="405" fill="#fff" font-size="20" font-weight="700">AI Services</text><text x="750" y="438" fill="#9da6ba" font-size="15">ICP scoring</text><text x="750" y="464" fill="#9da6ba" font-size="15">Outreach drafting</text>
+<rect x="425" y="555" width="350" height="55" rx="15" fill="#211d46" stroke="#8f86ff"/>
+<text x="600" y="590" fill="#fff" font-size="18" font-weight="700">OpenAI Responses API + Structured Outputs</text>
+</g>
+<g stroke="#65708a" stroke-width="3" fill="none" marker-end="url(#arrow)">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#65708a"/></marker></defs>
+<path d="M320 170 L475 170"/><path d="M725 170 L880 170"/><path d="M600 230 L450 360"/><path d="M600 230 L750 360"/><path d="M450 500 L500 555"/><path d="M750 500 L700 555"/>
+</g>
+</svg>
